@@ -84,7 +84,7 @@ img {
 }
 
 section#img01 {
-    background-image: url('imagem/jornal.webp');
+    background-image: url('jornal.webp');
     background-position: center;
     background-size: cover;
     width: 100%;
@@ -92,7 +92,7 @@ section#img01 {
 }
 
 section#img02 {
-    background-image: url('imagem/fanf2.jpg');
+    background-image: url('fanf2.jpg');
     background-position: center;
     background-size: cover;
     width: 100%;
